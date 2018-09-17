@@ -151,7 +151,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="CPUCheck.h" />
+    <ClInclude Include="CPUSpeed.h" />
+    <ClInclude Include="SingleInstance.h" />
     <ClInclude Include="pch.h" />
+    <ClInclude Include="StorageCheck.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="pch.cpp">
