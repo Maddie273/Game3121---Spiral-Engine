@@ -151,6 +151,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+<<<<<<< HEAD
+=======
+    <ClInclude Include="CPUCheck.h" />
+    <ClInclude Include="CPUSpeed.h" />
+>>>>>>> KevinTest
     <ClInclude Include="SingleInstance.h" />
     <ClInclude Include="pch.h" />
     <ClInclude Include="StorageCheck.h" />

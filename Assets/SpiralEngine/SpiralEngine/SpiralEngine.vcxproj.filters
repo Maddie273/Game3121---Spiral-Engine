@@ -24,6 +24,15 @@
     <ClInclude Include="SingleInstance.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+<<<<<<< HEAD
+=======
+    <ClInclude Include="CPUCheck.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CPUSpeed.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+>>>>>>> KevinTest
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="pch.cpp">
