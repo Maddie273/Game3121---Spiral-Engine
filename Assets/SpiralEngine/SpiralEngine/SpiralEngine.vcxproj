@@ -151,7 +151,9 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="SingleInstance.h" />
     <ClInclude Include="pch.h" />
+    <ClInclude Include="StorageCheck.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="pch.cpp">
