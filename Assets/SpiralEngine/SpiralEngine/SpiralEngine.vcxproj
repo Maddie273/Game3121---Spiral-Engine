@@ -153,6 +153,7 @@
   <ItemGroup>
     <ClInclude Include="CPUCheck.h" />
     <ClInclude Include="CPUSpeed.h" />
+    <ClInclude Include="Memory.h" />
     <ClInclude Include="SingleInstance.h" />
     <ClInclude Include="pch.h" />
     <ClInclude Include="StorageCheck.h" />
