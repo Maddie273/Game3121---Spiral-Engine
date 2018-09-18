@@ -155,6 +155,10 @@
 =======
     <ClInclude Include="CPUCheck.h" />
     <ClInclude Include="CPUSpeed.h" />
+<<<<<<< HEAD
+>>>>>>> KevinTest
+=======
+    <ClInclude Include="Memory.h" />
 >>>>>>> KevinTest
     <ClInclude Include="SingleInstance.h" />
     <ClInclude Include="pch.h" />

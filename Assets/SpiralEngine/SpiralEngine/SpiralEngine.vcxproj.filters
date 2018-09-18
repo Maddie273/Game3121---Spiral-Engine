@@ -32,6 +32,12 @@
     <ClInclude Include="CPUSpeed.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+<<<<<<< HEAD
+>>>>>>> KevinTest
+=======
+    <ClInclude Include="Memory.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
 >>>>>>> KevinTest
   </ItemGroup>
   <ItemGroup>
